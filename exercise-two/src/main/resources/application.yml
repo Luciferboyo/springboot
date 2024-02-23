@@ -1,0 +1,30 @@
+# database: 
+#   postgres: "db_forum"
+
+# spring:
+#   datasource:
+#     driverClassName: "org.hibernate.dialect.PostgreSQLDialect"
+#     url: "jdbc:postgresql://localhost:5432/${database.postgres}"
+#     username: "postgres"
+#     password: "admin1234"
+
+
+# spring.jpa:
+#   show-sql: true
+#   hibernate.ddl-auto: update # update
+#   # Hibernate ddl auto (create, create-drop, validate, update)
+
+api:
+  jph:
+    domain: "api.coingecko.com"
+    endpoints: "api/v3/coins/markets"
+    vsCurrency: "usd"
+    key: "CG-dmFxCkFWLsCw2iJXJ6qcx48y"
+# https://
+# api.coingecko.com
+# /api/v3/coins/markets
+# vs_currency=usd
+# x_cg_demo_api_key=CG-dmFxCkFWLsCw2iJXJ6qcx48y
+
+server:
+  port: 8090

@@ -1,0 +1,15 @@
+com\vtlab\exercisethree\pojo\Quote.class
+com\vtlab\exercisethree\service\Impl\GetInforServiceImpl.class
+com\vtlab\exercisethree\util\BcUtil.class
+com\vtlab\exercisethree\controller\impl\GetInforControllerImpl.class
+com\vtlab\exercisethree\infra\AipResonpse.class
+com\vtlab\exercisethree\pojo\Profile.class
+com\vtlab\exercisethree\controller\GetInforController.class
+com\vtlab\exercisethree\service\GetInforService.class
+com\vtlab\exercisethree\exception\GolbalExceptionHandler.class
+com\vtlab\exercisethree\infra\Syscode.class
+com\vtlab\exercisethree\ExerciseThreeApplication.class
+com\vtlab\exercisethree\pojo\Quote$QuoteBuilder.class
+com\vtlab\exercisethree\pojo\Profile$ProfileBuilder.class
+com\vtlab\exercisethree\infra\Scheme.class
+com\vtlab\exercisethree\config\AppConfig.class

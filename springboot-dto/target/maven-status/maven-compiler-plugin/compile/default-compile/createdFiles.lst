@@ -1,0 +1,6 @@
+com\vtxlab\dto\CatsDto.class
+com\vtxlab\CatController.class
+com\vtxlab\App.class
+com\vtxlab\CatService.class
+com\vtxlab\model\Cat.class
+com\vtxlab\dto\CatDto.class
